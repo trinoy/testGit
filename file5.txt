@@ -1,2 +1,2 @@
-i am file 5
+i am file 5 - master
 i am file 5 - testmerge
